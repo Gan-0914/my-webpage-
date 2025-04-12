@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>惊喜！</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #fff;
+      font-family: 'Arial', sans-serif;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    h1 {
+      font-size: 60px;
+      color: #ff4444;
+      text-shadow: 2px 2px 10px #ff4444;
+    }
+    p {
+      font-size: 24px;
+      margin-top: 20px;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <h1>你是大傻逼！😎</h1>
+  <p>被整到了吧？</p>
+</body>
+</html>
